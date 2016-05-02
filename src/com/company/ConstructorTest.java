@@ -33,6 +33,7 @@ class Employee
     {
         id = nextId;
         nextId++;
+        test
     }
 
     public Employee(String n, double s)
@@ -63,3 +64,6 @@ class Employee
         return id;
     }
 }
+
+test;
+googl;
